@@ -2,3 +2,11 @@
     background-color: rgb(34, 22, 22);
     color:white;
 }
+
+a:link {
+    color:rgb(255, 99, 99);
+}
+
+a:visited {
+    color:red;
+}
